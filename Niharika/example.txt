@@ -4,3 +4,6 @@ sasdadssdsd
 
 Make and commit changes
 Always do in another branch(other than master)
+
+
+Pull reuqest is for comparing master and newly created branch and merge changes if necessary
