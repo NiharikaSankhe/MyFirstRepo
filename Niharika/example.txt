@@ -1,3 +1,6 @@
 sasdasdasd
 
 sasdadssdsd
+
+Make and commit changes
+Always do in another branch(other than master)
